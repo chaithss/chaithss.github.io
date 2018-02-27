@@ -1,0 +1,11 @@
+{
+  "name": "mock-extension",
+  "version": "1.0.0",
+  "description": "Local instance of an extension",
+  "scripts": {
+    "mock-server": "http-server -c-1"
+  },
+  "devDependencies": {
+    "http-server": "0.9.0"
+  }
+}
